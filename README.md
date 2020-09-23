@@ -16,9 +16,11 @@ Install requierments & Setup Configuration File. ( apiID, apiHash )
 
 ```
 $ python setup.py
+```
 
 To Scare members from group.
 
+```
 $ python scraper.py
 ```
 
